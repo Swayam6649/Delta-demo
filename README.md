@@ -1,2 +1,2 @@
 # Delta-demo
-Yo yo
+Yo yo.
